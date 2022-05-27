@@ -1,0 +1,2 @@
+# Exercicios-diversos
+exercícios resolvidos
